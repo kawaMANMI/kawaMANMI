@@ -1,7 +1,7 @@
 👋 I am Kawa, obtained PhD in Applied Mathematics from the University of Birmingham in 2015. 
    I have experience in lecturing mathematical and computer programming modules, researching and 
     supervising postgradtuate studenties particularly in numerical modelling fluid dynamics.
-    Ny plan is to utilise my mathematical, computer code and technical skills to become a valuable asset.
+    My plan is to utilise my mathematical, computer code and technical skills to become a valuable asset.
 
 👀 I have passion for computer coding in number of scientific computer language, Data Analysis, 
     continuous learning mathematical and technical skills and problem-solving.
