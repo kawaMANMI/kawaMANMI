@@ -1,5 +1,7 @@
 
-Hi There
+Hi There,
+
+
 Currently,
 - I am attending a web development bootcamp (3 days in weekday, Bath Spa University) 
 - I am attending a software development (every Saturday for 8 month, CodeYourFuture).
